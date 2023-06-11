@@ -27,7 +27,7 @@
   + Bases de Dados &#x1F6A7;
   + Programação Orientada a Objetos&nbsp;&nbsp;&nbsp;(Java) &#x1F6A7;
   + Redes de Computadores &#x1F6A7;
-  + Sistemas Operativos &#x1F6A7;
+  + [Sistemas Operativos](https://github.com/JoaoLopes2003/SO/tree/main)
 <br>
 
 + <span style="font-size: 16px;">3º ano&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x1F6E0;</span> Daqui a um ano... &#x1F6E0;</span>
