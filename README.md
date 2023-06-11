@@ -30,7 +30,7 @@
   + Sistemas Operativos &#x1F6A7;
 <br>
 
-+ <span style="font-size: 16px;">3º ano&nbsp;&nbsp;&nbsp;(1º Semestre)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x1F6E0;</span> Daqui a um ano... &#x1F6E0;</span>
++ <span style="font-size: 16px;">3º ano&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x1F6E0;</span> Daqui a um ano... &#x1F6E0;</span>
 <br>
 
 ## **Projetos**<br>
