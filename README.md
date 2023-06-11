@@ -29,10 +29,9 @@
   + Redes de Computadores
   + Sistemas Operativos
 <br>
-<br>
 
 + <span style="font-size: 16px;">3º ano&nbsp;&nbsp;&nbsp;(1º Semestre)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x1F6E0;</span> Daqui a um ano... &#x1F6E0;</span>
 <br>
-<br>
+
 ## **Projetos**<br>
   + [ADVENT OF CODE&nbsp;&nbsp;&nbsp;(2022)](https://github.com/JoaoLopes2003/Advent-of-Code)
