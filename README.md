@@ -9,14 +9,14 @@
 
 + <span style="font-size: 16px;">1º ano&nbsp;&nbsp;&nbsp;(1º Semestre)</span>
 
-  + Programação Funcional&nbsp;&nbsp;&nbsp;(Haskell)
-  + Laboratórios de Informática I
+  + Programação Funcional&nbsp;&nbsp;&nbsp;(Haskell) &#x1F6A7;
+  + Laboratórios de Informática I &#x1F6A7;
 <br>
 
 
 + <span style="font-size: 16px;">1º ano&nbsp;&nbsp;&nbsp;(2º Semestre)</span>
-  + Programação Imperativa
-  + Labororatorios de Informática II
+  + Programação Imperativa &#x1F6A7;
+  + Labororatorios de Informática II &#x1F6A7;
 <br>
 
 + <span style="font-size: 16px;">2º ano&nbsp;&nbsp;&nbsp;(1º Semestre)</span>
@@ -24,10 +24,10 @@
 <br>
 
 + <span style="font-size: 16px;">2º ano&nbsp;&nbsp;&nbsp;(2º Semestre)</span>
-  + Bases de Dados
-  + Programação Orientada a Objetos&nbsp;&nbsp;&nbsp;(Java)
-  + Redes de Computadores
-  + Sistemas Operativos
+  + Bases de Dados &#x1F6A7;
+  + Programação Orientada a Objetos&nbsp;&nbsp;&nbsp;(Java) &#x1F6A7;
+  + Redes de Computadores &#x1F6A7;
+  + Sistemas Operativos &#x1F6A7;
 <br>
 
 + <span style="font-size: 16px;">3º ano&nbsp;&nbsp;&nbsp;(1º Semestre)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x1F6E0;</span> Daqui a um ano... &#x1F6E0;</span>
