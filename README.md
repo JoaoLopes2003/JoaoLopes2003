@@ -34,5 +34,5 @@
 <br>
 
 ## **Projetos**<br>
-  + [ADVENT OF CODE&nbsp;&nbsp;&nbsp;(2022)](https://github.com/JoaoLopes2003/Advent-of-Code)
+  + [ADVENT OF CODE 2022&nbsp;&nbsp;&nbsp;(2022)](https://github.com/JoaoLopes2003/Advent-of-Code)
   + [TODO-LIST&nbsp;&nbsp;&nbsp;(2023)](https://github.com/JoaoLopes2003/TODO-LIST)
