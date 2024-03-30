@@ -3,7 +3,7 @@
 
 &#x1F4CD; Braga, Portugal
 
-&#x1F393; Estudante do 2º ano de Engenharia Informática da Universidade do Minho<br><br>
+&#x1F393; Estudante do 3º ano de Engenharia Informática da Universidade do Minho<br><br>
 
 ## **Universidade do Minho**<br>
 
